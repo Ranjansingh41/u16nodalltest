@@ -16,4 +16,5 @@ jobs:
             - phantomjs --version
             - java -jar /srv/selenium-server-standalone-3.11.0.jar --version
             - nodejs --version
+            - nvm list
             - npm --version
